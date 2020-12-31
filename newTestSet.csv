@@ -1,0 +1,4 @@
+Age,Attrition,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,WorkLifeBalance,YearsAtCompany
+41,Yes,Sales,1,2,Life Sciences,2,4,Single,5993,8,1,6
+49,No,Research & Development,8,1,Life Sciences,3,2,Married,5130,1,3,10
+37,Yes,Research & Development,2,2,Other,4,3,Single,2090,6,3,0
